@@ -1,0 +1,1 @@
+worker: hypercorn server_2:app --reload
